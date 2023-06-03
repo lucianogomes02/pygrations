@@ -10,6 +10,7 @@ python = "^3.11"
 alembic = "^1.11.1"
 black = "^23.3.0"
 psycopg2 = "^2.9.6"
+sqlacodegen = "^2.3.0.post1"
 
 
 [build-system]
